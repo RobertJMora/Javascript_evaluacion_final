@@ -1,2 +1,2 @@
 # Javascript_evaluacion_final
-Evaluación de Javascript
+Evaluación de Javascript/Calculadora
